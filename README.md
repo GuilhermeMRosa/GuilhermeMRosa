@@ -5,8 +5,8 @@
 📍 Caçapava – SP · 18 anos  
 📧 guilhermemoraesrosa7@gmail.com · 📱 (12) 99611-7533
 
-[![GitHub](https://img.shields.io/badge/-GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU-USER) 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN) 
+[![GitHub](https://img.shields.io/badge/-GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/GuilhermeMRosa)) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-rosa-518047387/) 
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermemoraesrosa7@gmail.com)
 
 ---
@@ -15,7 +15,7 @@
 Sou estudante de **Análise e Desenvolvimento de Sistemas — FATEC São José dos Campos** (previsão de conclusão: 2027).  
 Tenho interesse em **desenvolvimento de software**, com foco em **Python, Flask e Java**, e também curto bastante o universo dos **games** — pretendo, no futuro, transitar para desenvolvimento de jogos.
 
-**Objetivo profissional:** Estagiar na área de Tecnologia da Informação, com foco em desenvolvimento de software, aplicando e aprimorando meus conhecimentos em Python, Flask e Java, e consolidando práticas de lógica e metodologias ágeis.
+**Objetivo profissional:** Estagiar na área de Tecnologia da Informação, com foco em desenvolvimento de software, aplicando e aprimorando meus conhecimentos em Python, e Java, e consolidando práticas de lógica e metodologias ágeis.
 
 ---
 
@@ -39,13 +39,13 @@ Tenho interesse em **desenvolvimento de software**, com foco em **Python, Flask 
 ### 1. 🔹 SIRAAS — Sistema de Avaliação de Atestados Médicos e Equipes Ágeis  
 - **Descrição:** Sistema web acadêmico para cadastro, gestão e avaliação de atestados médicos e métricas de times ágeis.  
 - **Tecnologias:** Python · Flask · HTML · CSS · Git · GitHub  
-- **Status:** 🚀 concluído (ou ajustar conforme seu status)  
+- **Status:** 🚀 concluído 
 - **Link:** https://github.com/Gabrielle0905/SIRAAS
 
 ### 2. 🔹 Sphera — Sistema de Gerenciamento de PDIs  
 - **Descrição:** Plataforma para gestão de Planos de Desenvolvimento Individual (PDI), com relatórios e indicadores para RH.  
-- **Tecnologias:** Java · (incluir framework/DB se quiser)  
-- **Status:** 📈 em evolução (ajuste conforme necessário)  
+- **Tecnologias:** Java
+- **Status:** 📈 em evolução
 - **Link:** https://github.com/Minerva2025/Minerva
 
 ---
@@ -80,25 +80,11 @@ Tenho interesse em **desenvolvimento de software**, com foco em **Python, Flask 
 
 ---
 
-## 🚀 Como executar (guia rápido)
-**SIRAAS (Python / Flask)**  
-1. Clone o repositório: `git clone https://github.com/Gabrielle0905/SIRAAS.git`  
-2. Crie e ative um ambiente virtual: `python -m venv venv && source venv/bin/activate` (Linux/Mac) ou `venv\Scripts\activate` (Windows)  
-3. Instale dependências: `pip install -r requirements.txt`  
-4. Execute: `flask run` (ou conforme instruções do projeto)
-
-**Sphera (Java)**  
-1. Clone: `git clone https://github.com/Minerva2025/Minerva.git`  
-2. Abra no seu IDE (IntelliJ/Eclipse) e construa o projeto.  
-3. Configure banco de dados / variáveis de ambiente conforme README interno do projeto.
-
----
-
 ## 📫 Contato
 - Email: guilhermemoraesrosa7@gmail.com  
 - Telefone/WhatsApp: (12) 99611-7533  
-- GitHub: https://github.com/SEU-USER  
-- LinkedIn: https://www.linkedin.com/in/SEU-LINKEDIN
+- GitHub: https://github.com/GuilhermeMRosa  
+- LinkedIn: https://www.linkedin.com/in/guilherme-rosa-518047387/
 
 ---
 
