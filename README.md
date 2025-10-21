@@ -13,7 +13,7 @@
 
 ## ✨ Sobre mim
 Sou estudante de **Análise e Desenvolvimento de Sistemas — FATEC São José dos Campos** (previsão de conclusão: 2027).  
-Tenho interesse em **desenvolvimento de software**, com foco em **Python, Flask e Java**, e também curto bastante o universo dos **games** — pretendo, no futuro, transitar para desenvolvimento de jogos.
+Tenho interesse em **desenvolvimento de software**, com foco em **Python, e Java**, e também curto bastante o universo dos **games** — pretendo, no futuro, transitar para desenvolvimento de jogos.
 
 **Objetivo profissional:** Estagiar na área de Tecnologia da Informação, com foco em desenvolvimento de software, aplicando e aprimorando meus conhecimentos em Python, e Java, e consolidando práticas de lógica e metodologias ágeis.
 
@@ -87,9 +87,3 @@ Tenho interesse em **desenvolvimento de software**, com foco em **Python, Flask 
 - LinkedIn: https://www.linkedin.com/in/guilherme-rosa-518047387/
 
 ---
-
-> **Observações / Para editar:**  
-> - Substitua `SEU-USER` e `SEU-LINKEDIN` pelos seus links reais.  
-> - Atualize os status dos projetos (concluído / em desenvolvimento).  
-> - Quer que eu já personalize as URLs dos seus perfis (GitHub/LinkedIn) e adicione badge de Instagram? Posso fazer na próxima mensagem.
-
