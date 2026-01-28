@@ -2,8 +2,8 @@
 
 **`Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)`**
 
-📍 Caçapava – SP · 18 anos  
-📧 guilhermemoraesrosa7@gmail.com · 📱 (12) 99611-7533
+📍 Caçapava – SP · 19 anos  
+📧 guilhermemoraesrosa@gmail.com · 📱 (12) 99611-7533
 
 [![GitHub](https://img.shields.io/badge/-GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/GuilhermeMRosa)) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-rosa-518047387/) 
@@ -81,7 +81,7 @@ Tenho interesse em **desenvolvimento de software**, com foco em **Python, e Java
 ---
 
 ## 📫 Contato
-- Email: guilhermemoraesrosa7@gmail.com  
+- Email: guilhermemoraesrosa@gmail.com  
 - Telefone/WhatsApp: (12) 99611-7533  
 - GitHub: https://github.com/GuilhermeMRosa  
 - LinkedIn: https://www.linkedin.com/in/guilherme-rosa-518047387/
