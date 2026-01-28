@@ -2,22 +2,15 @@
 
 **`Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)`**
 
-📍 Caçapava – SP · 19 anos  
-📧 guilhermemoraesrosa@gmail.com · 📱 (12) 99611-7533
 
-[![GitHub](https://img.shields.io/badge/-GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/GuilhermeMRosa)) 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-rosa-518047387/) 
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermemoraesrosa7@gmail.com)
-
----
 
 ## ✨ Sobre mim
-Sou estudante de **Análise e Desenvolvimento de Sistemas — FATEC São José dos Campos** (previsão de conclusão: 2027).  
-Tenho interesse em **desenvolvimento de software**, com foco em **Python, e Java**, e também curto bastante o universo dos **games** — pretendo, no futuro, transitar para desenvolvimento de jogos.
+Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos (conclusão em 2027).
+Sou uma pessoa descontraída, animada e interativa, apaixonada por tecnologia e com grande interesse em desenvolvimento de jogos.
 
-**Objetivo profissional:** Estagiar na área de Tecnologia da Informação, com foco em desenvolvimento de software, aplicando e aprimorando meus conhecimentos em Python, e Java, e consolidando práticas de lógica e metodologias ágeis.
+## **Objetivo profissional**
+Atualmente busco uma oportunidade de estágio na área de Tecnologia da Informação, com foco em desenvolvimento de software, onde possa aplicar e aprimorar os conhecimentos adquiridos na faculdade. Tenho interesse em trabalhar com Python e Java, fortalecendo práticas de lógica de programação e o uso de metodologias ágeis.
 
----
 
 ## 🖥 Linguagens & Ferramentas
 <div style="display: inline_block"><br>
@@ -31,7 +24,6 @@ Tenho interesse em **desenvolvimento de software**, com foco em **Python, e Java
   <img align="center" alt="Java" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
----
 
 ## 📫 Contato
 - Email: guilhermemoraesrosa@gmail.com  
@@ -39,4 +31,3 @@ Tenho interesse em **desenvolvimento de software**, com foco em **Python, e Java
 - GitHub: https://github.com/GuilhermeMRosa  
 - LinkedIn: https://www.linkedin.com/in/guilherme-rosa-518047387/
 
----
