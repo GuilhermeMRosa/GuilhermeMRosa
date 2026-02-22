@@ -28,6 +28,5 @@ Atualmente busco uma oportunidade de estágio na área de Tecnologia da Informa�
 ## 📫 Contato
 - Email: guilhermemoraesrosa@gmail.com  
 - Telefone/WhatsApp: (12) 99611-7533  
-- GitHub: https://github.com/GuilhermeMRosa  
 - LinkedIn: https://www.linkedin.com/in/guilherme-rosa-518047387/
 
