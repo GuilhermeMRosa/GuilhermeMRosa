@@ -1,10 +1,10 @@
-# 👋 Guilherme de Moraes Rosa
+# Guilherme de Moraes Rosa
 
 **`Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)`**
 
 
 
-## ✨ Sobre mim
+## Sobre mim
 Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos (conclusão em 2027).
 Sou uma pessoa descontraída, animada e interativa, apaixonada por tecnologia e com grande interesse em desenvolvimento de jogos.
 
@@ -12,7 +12,7 @@ Sou uma pessoa descontraída, animada e interativa, apaixonada por tecnologia e 
 Atualmente busco uma oportunidade de estágio na área de Tecnologia da Informação, com foco em desenvolvimento de software, onde possa aplicar e aprimorar os conhecimentos adquiridos na faculdade. Tenho interesse em trabalhar com Python e Java, fortalecendo práticas de lógica de programação e o uso de metodologias ágeis.
 
 
-## 🖥 Linguagens & Ferramentas
+## Linguagens & Ferramentas
 <div style="display: inline_block"><br>
   <img align="center" alt="Git" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
@@ -25,7 +25,7 @@ Atualmente busco uma oportunidade de estágio na área de Tecnologia da Informa�
 </div>
 
 
-## 📫 Contato
+## Contato
 - Email: guilhermemoraesrosa@gmail.com  
 - Telefone/WhatsApp: (12) 99611-7533  
 - LinkedIn: https://www.linkedin.com/in/guilherme-rosa-518047387/
