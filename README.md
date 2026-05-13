@@ -1,18 +1,29 @@
 # Guilherme de Moraes Rosa
 
-**`Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)`**
-
-
+**Estudante de Análise e Desenvolvimento de Sistemas | Python | Java | Desenvolvimento Web**
 
 ## Sobre mim
-Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos (conclusão em 2027).
-Sou uma pessoa descontraída, animada e interativa, apaixonada por tecnologia e com grande interesse em desenvolvimento de jogos.
 
-## **Objetivo profissional**
-Atualmente busco uma oportunidade de estágio na área de Tecnologia da Informação, com foco em desenvolvimento de software, onde possa aplicar e aprimorar os conhecimentos adquiridos na faculdade. Tenho interesse em trabalhar com Python e Java, fortalecendo práticas de lógica de programação e o uso de metodologias ágeis.
+Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos, com previsão de conclusão em 2027.
 
+Tenho interesse em desenvolvimento de software, desenvolvimento web e desenvolvimento de jogos. Possuo perfil comunicativo, colaborativo e gosto de aprender na prática, principalmente por meio de projetos acadêmicos e estudos voltados à tecnologia.
+
+## Objetivo profissional
+
+Busco uma oportunidade de estágio em Tecnologia da Informação, especialmente na área de desenvolvimento de software. Tenho interesse em atuar com Python, Java e desenvolvimento web, aplicando conhecimentos de lógica de programação, banco de dados e metodologias ágeis.
+
+## Atualmente estudando
+
+- Python
+- Java
+- Flask
+- HTML, CSS e JavaScript
+- SQL e MySQL
+- Git e GitHub
+- Scrum e metodologias ágeis
 
 ## Linguagens & Ferramentas
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Git" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
@@ -24,9 +35,12 @@ Atualmente busco uma oportunidade de estágio na área de Tecnologia da Informa�
   <img align="center" alt="Java" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
+<!--
+## Projetos em destaque
+- **Em breve** — Projetos acadêmicos e pessoais serão adicionados aqui.
+-->
 
 ## Contato
-- Email: guilhermemoraesrosa@gmail.com  
-- Telefone/WhatsApp: (12) 99611-7533  
-- LinkedIn: https://www.linkedin.com/in/guilherme-rosa-518047387/
 
+- Email: guilhermemoraesrosa@gmail.com
+- LinkedIn: https://www.linkedin.com/in/guilherme-rosa-518047387/
