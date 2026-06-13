@@ -1,46 +1,71 @@
-# Guilherme de Moraes Rosa
+<h1 align="center">Guilherme Rosa</h1>
 
-**Estudante de Análise e Desenvolvimento de Sistemas | Python | Java | Desenvolvimento Web**
+<p align="center">
+  Estudante de ADS · Estagiário de Desenvolvimento Web · Python · Java · Web
+</p>
 
-## Sobre mim
+<p align="center">
+  <a href="mailto:guilhermemoraesrosa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/guilherme-rosa-518047387/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos, com previsão de conclusão em 2027.
+---
 
-Tenho interesse em desenvolvimento de software, desenvolvimento web e desenvolvimento de jogos. Possuo perfil comunicativo, colaborativo e gosto de aprender na prática, principalmente por meio de projetos acadêmicos e estudos voltados à tecnologia.
+## 👨‍💻 Sobre mim
 
-## Objetivo profissional
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na FATEC São José dos Campos (conclusão prevista em 2027) e atualmente estagio como **Desenvolvedor Web na Agência Wiks** (Caçapava, SP).
 
-Busco uma oportunidade de estágio em Tecnologia da Informação, especialmente na área de desenvolvimento de software. Tenho interesse em atuar com Python, Java e desenvolvimento web, aplicando conhecimentos de lógica de programação, banco de dados e metodologias ágeis.
+Tenho interesse em desenvolvimento de software, web e jogos. Gosto de aprender na prática — por meio de projetos acadêmicos, estágio e estudos contínuos em tecnologia.
 
-## Atualmente estudando
+---
 
-- Python
-- Java
-- Flask
-- HTML, CSS e JavaScript
-- SQL e MySQL
-- Git e GitHub
-- Scrum e metodologias ágeis
+## 🎯 Objetivo profissional
 
-## Linguagens & Ferramentas
+Atuar na área de **desenvolvimento de software**, aplicando conhecimentos em Python, Java e desenvolvimento web, com foco em lógica de programação, banco de dados e metodologias ágeis.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Git" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="HTML5" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Python" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Flask" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-  <img align="center" alt="Java" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+---
+
+## 🚀 Projetos em destaque
+
+### DM-API — Plataforma de Análise de Crédito Sustentável
+> Projeto acadêmico interdisciplinar (Mar–Jun 2026) · FATEC SJC
+
+Plataforma web voltada à análise de crédito com foco em sustentabilidade.
+
+- Análise de dados com **Python e Pandas** (Google Colab)
+- Criação de rotas de backend em **Node.js**
+- Integração frontend-backend com **React hooks**
+- Frontend em **React + TypeScript**
+
+---
+
+## 🛠️ Tecnologias
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 
-<!--
-## Projetos em destaque
-- **Em breve** — Projetos acadêmicos e pessoais serão adicionados aqui.
--->
+---
 
-## Contato
+## 📊 GitHub Stats
 
-- Email: guilhermemoraesrosa@gmail.com
-- LinkedIn: https://www.linkedin.com/in/guilherme-rosa-518047387/
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeMRosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMRosa&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
