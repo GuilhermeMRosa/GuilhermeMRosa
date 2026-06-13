@@ -16,8 +16,6 @@ Já participei de quatro maratonas de programação: uma pelo Inatel ainda
 no ensino médio, duas internas da FATEC e a Interfatec. Pretendo
 continuar participando.
 
----
-
 Tecnologias que uso:
 
 <div>
@@ -32,8 +30,6 @@ Tecnologias que uso:
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
-
----
 
 <a href="https://www.linkedin.com/in/guilherme-rosa-518047387/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
