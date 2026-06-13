@@ -1,29 +1,26 @@
-<h1 align="center">Oi, eu sou o Guilherme 👋</h1>
+# Guilherme de Moraes Rosa
 
-<p align="center">
-  Estudante de ADS na FATEC SJC · Estagiário dev web na Agência Wiks · Caçapava, SP
-</p>
+Estudante de ADS na FATEC São José dos Campos e estagiário de
+desenvolvimento web na Agência Wiks, em Caçapava, SP.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/guilherme-rosa-518047387/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:guilhermemoraesrosa@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+Gosto de entender como as coisas funcionam — no código e fora dele.
+Aprendo buscando e praticando nos meus projetos acadêmicos, nas tarefas
+do dia a dia do estágio e com os erros que aparecem no caminho.
 
----
+Tenho interesse forte em desenvolvimento de software, análise de dados
+e, no futuro, desenvolvimento de jogos. Fora da programação, me interesso
+por educação, cultura e por entender como o mundo realmente funciona —
+e quero que o que eu construa faça diferença real na vida das pessoas.
 
-Atuo como estagiário de desenvolvimento web na **Agência Wiks**, onde trabalho com React, PHP e automações. Em paralelo, curso **Análise e Desenvolvimento de Sistemas** na FATEC SJC (conclusão em 2027).
-
-Gosto de aprender fazendo — projetos acadêmicos, coisas que quebram no estágio e obrigam a pesquisar, experimentos que ficam pela metade. Tenho interesse em desenvolvimento de software e web, e no futuro quero explorar dev de jogos também.
+Já participei de quatro maratonas de programação: uma pelo Inatel ainda
+no ensino médio, duas internas da FATEC e a Interfatec. Pretendo
+continuar participando.
 
 ---
 
-## 🛠️ Tecnologias que uso
+Tecnologias que uso:
 
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -38,27 +35,9 @@ Gosto de aprender fazendo — projetos acadêmicos, coisas que quebram no estág
 
 ---
 
-## 📁 Projetos
-
-### DM-API — Plataforma de Análise de Crédito Sustentável
-> Projeto acadêmico · FATEC SJC · Mar–Jun 2026
-
-Plataforma web para análise de crédito com critérios de sustentabilidade, desenvolvida em equipe como projeto integrador.
-
-**Stack:** React · TypeScript · Node.js · Python · Pandas
-
-**O que eu fiz:**
-- Análise e tratamento de dados com Python/Pandas no Google Colab
-- Criação de rotas no backend em Node.js
-- Integração frontend-backend via React hooks
-- Apoio na gestão e organização do time
-
-**O que aprendi:** foi meu primeiro contato real com integração entre camadas de uma aplicação. Entender o fluxo entre frontend, backend e dados na prática foi bem diferente de só estudar cada parte separada.
-
-<!-- 🔗 [Repositório](link aqui quando disponível) -->
-
----
-
-## 📚 Estudando agora
-
-Além do que já uso no dia a dia, estou aprofundando em **Flask**, **SQL** e **Scrum** — coisas que aparecem tanto no estágio quanto na faculdade.
+<a href="https://www.linkedin.com/in/guilherme-rosa-518047387/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:guilhermemoraesrosa@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
